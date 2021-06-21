@@ -1,4 +1,4 @@
-package hilossincronizados;
+package thread_management;
 
 public class Consume extends Thread  {
     
